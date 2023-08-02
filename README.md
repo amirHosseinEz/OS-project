@@ -5,3 +5,6 @@ Implementing CPU scheduling algorithms:
 3-SJF  
 4-Round Robin  
 5-MLFQ  
+Implemented in python
+
+
